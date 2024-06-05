@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpud3cycjdpMHV2OWJjamR6bjAycXhiMnM3NmJkZ25lbXJ6ZnAydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwjz36Lhh1yBXLq/giphy.gif)
+I`m Oseias, but you can call me **Zeias**
 <!--
 **OseiasA/OseiasA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
