@@ -1,5 +1,4 @@
 ## Hi there 👋
-![https://giphy.com/embed/3owyp7ny4lU4db5WSs" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/boxing-henry-the-worst-3owyp7ny4lU4db5WSs](link)
 <!--
 **OseiasA/OseiasA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
